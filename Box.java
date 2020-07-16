@@ -1,11 +1,11 @@
 public class Box {
     private Object value;
 
-    public Box (){
+    private Box (){
 
     }
 
-    public Box(Object value) {
+    private Box(Object value) {
         this.value = value;
     }
 
